@@ -196,7 +196,7 @@ inline Edge * HalfToEdge(HalfEdge * half)
 ### Current Settings
 
 
-![Raw image 1](assets/raw-1.png)  
+![Raw image 1](assets/settings1.png)  
 ![Raw image 2](assets/raw-2.png)  
 ![Raw image 3](assets/raw-3.png)
 
