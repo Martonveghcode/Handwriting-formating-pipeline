@@ -121,7 +121,7 @@ inline Edge * HalfToEdge(HalfEdge * half)
 
 
 
-![Training paper preview](assets/training-paper.png)
+![Training paper preview](assets/black.png)
 ---
 ## Cutting & Processing Raw Data
 
@@ -148,7 +148,7 @@ inline Edge * HalfToEdge(HalfEdge * half)
 
 ### Example
 
-![Yellow line cleanup and cutting example](assets/gimp-yellow-line-example.png)
+![Yellow line cleanup and cutting example](assets/yellow.png)
 
 ---
 ## Annotating (how I did it)
@@ -197,8 +197,8 @@ inline Edge * HalfToEdge(HalfEdge * half)
 
 
 ![Raw image 1](assets/settings1.png)  
-![Raw image 2](assets/raw-2.png)  
-![Raw image 3](assets/raw-3.png)
+![Raw image 2](assets/settings2.png)  
+![Raw image 3](assets/settings3.png)
 
 ---
 
