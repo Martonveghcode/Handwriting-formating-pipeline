@@ -205,14 +205,14 @@ inline Edge * HalfToEdge(HalfEdge * half)
 ### Before
 *(Example of a text generated )*
 
-![Before processing](assets/before-processing.png)
+![Before processing](msrdc_OteCxpJjiN.png)
 
 ---
 
 ### After
 *(text with added lines and formated)*
 
-![After processing](assets/after-processing.png)
+![After processing](Photos_6iyK9GBKFi.png)
 
 
 
