@@ -228,5 +228,19 @@ inline Edge * HalfToEdge(HalfEdge * half)
 
 ![After processing](assets/Photos_6iyK9GBKFi.png)
 
+---
+## Ethical Use Note
+
+This project and its extensions are intended **solely for personal, educational, and research use** — for studying handwriting synthesis, data formatting, and text rendering workflows.
+
+Please use responsibly and **avoid**:
+- Reproducing or mimicking another person’s handwriting **without their explicit consent**
+- Using generated handwriting to **forge**, **deceive**, or **impersonate** individuals
+- Distributing trained models or datasets that contain **private or copyrighted content**
+
+Always respect data privacy, authorship, and the ethical guidelines of your institution or community.  
+The goal is to explore technology creatively and transparently — **not to mislead or exploit**.
+
+**Contact:** <mailto:martonvegh2009@gmail.com>
 
 
