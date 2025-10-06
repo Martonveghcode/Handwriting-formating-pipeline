@@ -11,7 +11,7 @@ An extension/pipeline to **“My Text in Your Handwriting”** by Thaines. Inclu
 
 Watch a full demonstration of the handwriting formatting and synthesis pipeline:
 
-🎥 **Demo Video:** [assets/2025-10-06 17-24-50.mp4](assets/2025-10-06 17-24-50.mp4)
+🎥 **Demo Video:** [assets/2025-10-06 17-24-50.mp4](assets/2025-10-06-17-24-50.mp4)
 
 > The demo walks through:
 > - Formatting and synthesizing text  
