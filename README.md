@@ -7,6 +7,20 @@ An extension/pipeline to **“My Text in Your Handwriting”** by Thaines. Inclu
 > [My Text in Your Handwriting (HELIT)](https://github.com/thaines/helit/tree/master/handwriting#my-text-in-your-handwriting)
 
 ---
+## Demo Video
+
+Watch a full demonstration of the handwriting formatting and synthesis pipeline:
+
+🎥 **Demo Video:** [assets/2025-10-06 17-24-50](assets/2025-10-06 17-24-50)
+
+> The demo walks through:
+> - Formatting and synthesizing text  
+> - Generating printable pages
+
+---
+
+
+
 
 ## Quick tips (what worked for me)
 
